@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -8,15 +6,22 @@
   <a href="https://www.linkedin.com/in/timothykchapman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!--
+<!--
   <a>
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a> 
   <a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>  
-  -->
+-->
 </div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=timkchapman&style=flat-square&color=blue" alt=""/>
+</div>  
+
+<h1>
+  hey there
+</h1>
 
 
 <!--
